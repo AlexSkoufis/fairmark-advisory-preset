@@ -1,0 +1,68 @@
+.section {
+  position: relative;
+  overflow: hidden;
+  background: var(--gray-50);
+  text-align: center;
+}
+
+.dots {
+  position: absolute;
+  inset: -15% 0;
+  background-image: radial-gradient(circle, rgba(108, 92, 245, 0.4) 1.5px, transparent 1.7px);
+  background-size: 22px 22px;
+  mask-image: radial-gradient(ellipse 60% 55% at 50% 50%, #000 0%, transparent 70%);
+  opacity: 0.6;
+  pointer-events: none;
+}
+
+.inner {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  max-width: 15ch;
+  margin-top: 24px;
+  font-size: clamp(40px, 6.4vw, 92px);
+}
+
+.text {
+  max-width: 34em;
+  margin-top: 28px;
+  color: var(--gray-600);
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 16px 32px;
+  margin-top: 44px;
+}
+
+.phone {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 16px;
+}
+
+.phone svg {
+  width: 20px;
+  height: 20px;
+  color: var(--blue-text);
+}
+
+.phone strong {
+  font-family: var(--font-mono);
+  font-weight: 500;
+  background: linear-gradient(currentColor, currentColor) 0 100% / 0 1px no-repeat;
+  transition: background-size 0.4s var(--ease-out);
+}
+
+.phone:hover strong {
+  background-size: 100% 1px;
+}

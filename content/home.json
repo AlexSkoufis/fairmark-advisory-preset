@@ -1,0 +1,444 @@
+{
+  "hero": {
+    "eyebrow": "IT spend & supplier negotiation, since 2004",
+    "titleLines": [
+      "Stop paying the",
+      "40% premium",
+      "on your technology."
+    ],
+    "highlightLine": 1,
+    "lead": "Fairmark negotiates your largest technology contracts with 22 years of real deal data behind every number. You pay true market value. We work only for you.",
+    "primaryCta": {
+      "label": "Talk to our Deal Desk",
+      "href": "#contact"
+    },
+    "secondaryCta": {
+      "label": "Estimate your savings",
+      "href": "#estimate"
+    },
+    "note": "100% independent. We work only for our clients.",
+    "proof": [
+      {
+        "value": "$1T+",
+        "label": "contract value negotiated since 2004"
+      },
+      {
+        "value": "31%+",
+        "label": "average savings"
+      },
+      {
+        "value": "1,800",
+        "label": "clients worldwide"
+      }
+    ],
+    "panel": {
+      "label": "Deal snapshot",
+      "status": "Live market benchmark",
+      "rows": [
+        {
+          "label": "Typical IT buyer spend",
+          "value": 140,
+          "display": "≈140%",
+          "tone": "blue"
+        },
+        {
+          "label": "True market value",
+          "value": 100,
+          "display": "100%",
+          "tone": "navy"
+        }
+      ],
+      "gapLabel": "Overspend Fairmark helps remove",
+      "gapValue": "up to 40%",
+      "footnote": "Based on Fairmark deal data. Most IT buyers overpay by up to 40%."
+    }
+  },
+  "clients": {
+    "heading": "Trusted by enterprises and investors in almost every industry",
+    "logos": [
+      {
+        "name": "Arbor Freight",
+        "style": "heavy"
+      },
+      {
+        "name": "Kestrel Foods",
+        "style": "serif"
+      },
+      {
+        "name": "Meridian Grid",
+        "style": "caps"
+      },
+      {
+        "name": "oakhurst/health",
+        "style": "mono"
+      },
+      {
+        "name": "Bramble Retail",
+        "style": "light"
+      },
+      {
+        "name": "Corran Capital",
+        "style": "serif"
+      },
+      {
+        "name": "LUMEN HOTELS",
+        "style": "caps"
+      },
+      {
+        "name": "Vantage Tire",
+        "style": "heavy"
+      }
+    ]
+  },
+  "problem": {
+    "eyebrow": "The problem",
+    "title": "Suppliers know what everyone pays. Most buyers don't.",
+    "body": [
+      "Enterprises typically pay a 40% premium for the technology that runs their organizations.",
+      "Most consulting and benchmarking firms share market data from other companies that are also overpaying. The real winners are the suppliers, year after year."
+    ],
+    "compare": [
+      {
+        "who": "Your team",
+        "text": "Negotiates one of its top 10 technology agreements every few years."
+      },
+      {
+        "who": "Fairmark",
+        "text": "Negotiates with the world's largest technology suppliers every single day."
+      }
+    ],
+    "chart": {
+      "title": "Most IT buyers overpay by up to 40%",
+      "axis": [
+        "0%",
+        "20%",
+        "40%",
+        "60%",
+        "80%",
+        "100%",
+        "120%",
+        "140%"
+      ],
+      "typical": {
+        "label": "Typical IT buyer spend",
+        "value": "≈140%"
+      },
+      "market": {
+        "label": "True market value",
+        "value": "100%"
+      },
+      "gap": {
+        "label": "Overspend Fairmark removes"
+      }
+    }
+  },
+  "process": {
+    "eyebrow": "How we help",
+    "title": "Find value. Get value. Keep value.",
+    "intro": "One clear process for every supplier, from the first contract review to the next renewal.",
+    "steps": [
+      {
+        "key": "find",
+        "label": "01",
+        "title": "Find",
+        "text": "We review your contracts, usage and renewal calendar against 22 years of negotiated deals, so you see exactly where you are overpaying and what is possible.",
+        "points": [
+          "Contract and spend review",
+          "Market pricing and terms benchmark",
+          "Prioritized savings opportunities"
+        ]
+      },
+      {
+        "key": "get",
+        "label": "02",
+        "title": "Get",
+        "text": "Our negotiators, with over 25 years of experience on average, build the deal strategy and work alongside your team or run the negotiation for you.",
+        "points": [
+          "Supplier strategy and leverage plan",
+          "Negotiation support or full execution",
+          "Better pricing and contract terms"
+        ]
+      },
+      {
+        "key": "keep",
+        "label": "03",
+        "title": "Keep",
+        "text": "Savings should last longer than the signature. We help you stay compliant, prepared for audits and ready for every future renewal.",
+        "points": [
+          "Renewal and term tracking",
+          "License compliance and audit readiness",
+          "Ongoing supplier value reviews"
+        ]
+      }
+    ],
+    "titleParts": [
+      "Find value.",
+      "Get value.",
+      "Keep value."
+    ]
+  },
+  "programs": {
+    "eyebrow": "Programs",
+    "title": "Choose the level of help that fits your deal.",
+    "question": "What best describes your situation?",
+    "items": [
+      {
+        "key": "valueops",
+        "situation": "We have a specific deal or renewal coming up",
+        "name": "Deal Desk Flex",
+        "summary": "A flexible, outcome-driven way to optimize technology deals. Start at the level that fits each deal and scale up as your needs change.",
+        "tiersHeading": "Three levels of support",
+        "tiers": [
+          {
+            "name": "Deal Intel",
+            "text": "Market intelligence for teams who negotiate themselves."
+          },
+          {
+            "name": "Advisory",
+            "text": "Expert advice behind the scenes while you lead."
+          },
+          {
+            "name": "Full Service",
+            "text": "We do the heavy lifting, end to end."
+          }
+        ],
+        "note": "Start with Deal Intel and upgrade to Advisory or Full Service whenever you need more help. You decide.",
+        "cta": {
+          "label": "Talk to us about Deal Desk Flex",
+          "href": "#contact"
+        },
+        "more": {
+          "label": "Learn more",
+          "href": "#programs"
+        }
+      },
+      {
+        "key": "savings-cloud",
+        "situation": "We want ongoing savings across all strategic suppliers",
+        "name": "Savings Retainer",
+        "summary": "Ongoing, full-service IT cost and value optimization. We act as an extension of your team, continuously lowering cost and driving value.",
+        "tiersHeading": "What is included",
+        "tiers": [
+          {
+            "name": "Persistent market intelligence",
+            "text": "Always-on pricing and terms visibility across suppliers."
+          },
+          {
+            "name": "Active deal execution",
+            "text": "We run negotiations as each deal comes up."
+          },
+          {
+            "name": "Performance-based alignment",
+            "text": "Savings are captured and sustained, not only at renewal."
+          }
+        ],
+        "note": "Not sure if it fits? The Savings Retainer calculator shows which managed program is right for your organization.",
+        "cta": {
+          "label": "Open the Savings Retainer calculator",
+          "href": "#estimate"
+        },
+        "more": {
+          "label": "Learn more",
+          "href": "#programs"
+        }
+      },
+      {
+        "key": "ace",
+        "situation": "We have high-priority deals and need results fast",
+        "name": "Priority Sprint",
+        "summary": "A focused program for larger, priority engagements where speed and visibility matter most. Rapid assessment, expert negotiation and a clear path to results.",
+        "tiersHeading": "How you can engage",
+        "tiers": [
+          {
+            "name": "One deal",
+            "text": "Fast-track a single high-impact negotiation."
+          },
+          {
+            "name": "Multiple deals",
+            "text": "Prioritize and execute several opportunities together."
+          },
+          {
+            "name": "Ongoing subscription",
+            "text": "Keep the program running as new priorities appear."
+          }
+        ],
+        "note": "No performance fees or savings limits.",
+        "cta": {
+          "label": "Talk to us about Priority Sprint",
+          "href": "#contact"
+        },
+        "more": {
+          "label": "Learn more",
+          "href": "#programs"
+        }
+      }
+    ],
+    "moreHidden": "about"
+  },
+  "difference": {
+    "eyebrow": "The Fairmark difference",
+    "title": "The right data, experience and people. On your side of the table.",
+    "items": [
+      {
+        "icon": "shield",
+        "title": "100% independent",
+        "text": "We work only for our clients. Every recommendation is made with your interests, and only yours, in mind."
+      },
+      {
+        "icon": "data",
+        "title": "The Deal Ledger",
+        "text": "A proprietary, AI-enabled database of deals, pricing and negotiated terms going back to 2004. We optimize thousands of deals every year across all technology categories."
+      },
+      {
+        "icon": "repeat",
+        "title": "Proven best practices",
+        "text": "Most IT teams negotiate a major agreement every few years. We do it every day with the largest technology suppliers in the world, and we put that experience to work for you."
+      },
+      {
+        "icon": "people",
+        "title": "Specialist experts",
+        "text": "Our experts combine IT and commercial negotiation skills, with over 25 years of experience on average. In most cases they know the supplier's business better than the supplier does."
+      }
+    ]
+  },
+  "finn": {
+    "eyebrow": "Ledger AI app",
+    "title": "Market intelligence, one question away.",
+    "text": "Ledger is Fairmark's AI assistant. It answers in seconds by searching 22 years of market data and negotiated deals, so you can check pricing, supplier positioning and terms before your next call.",
+    "prompts": [
+      "What discount is realistic on this renewal?",
+      "How is this supplier positioned this quarter?",
+      "Which contract terms should we push for?"
+    ],
+    "availability": "Available on iOS and Android",
+    "cta": {
+      "label": "Download on the App Store",
+      "href": "#"
+    },
+    "app": {
+      "label": "The Ledger app home screen with topic chips and a question field",
+      "name": "ledger",
+      "category": "Software renewals",
+      "chips": [
+        "Benchmarks",
+        "Briefing",
+        "Supplier outlook",
+        "Terms"
+      ],
+      "placeholder": "Ask anything about IT contracts..."
+    }
+  },
+  "numbers": {
+    "eyebrow": "Results",
+    "title": "Experience you want. Expertise you need. Performance you demand.",
+    "items": [
+      {
+        "prefix": "",
+        "value": 22,
+        "suffix": "",
+        "label": "years optimizing client value in the technology supply chain"
+      },
+      {
+        "prefix": "",
+        "value": 1800,
+        "suffix": "",
+        "label": "clients in virtually every industry and geography"
+      },
+      {
+        "prefix": "",
+        "value": 18000,
+        "suffix": "+",
+        "label": "supplier engagements on behalf of our clients"
+      },
+      {
+        "prefix": "",
+        "value": 31,
+        "suffix": "%+",
+        "label": "savings on average"
+      },
+      {
+        "prefix": "$",
+        "value": 1,
+        "suffix": "T+",
+        "label": "negotiated contract value captured since 2004"
+      },
+      {
+        "prefix": "",
+        "value": 25,
+        "suffix": "",
+        "label": "years of experience per expert, on average"
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Client stories",
+    "title": "What our clients say",
+    "prev": "Previous testimonial",
+    "next": "Next testimonial",
+    "items": [
+      {
+        "company": "Corran Capital",
+        "role": "Operating Partner",
+        "quote": "We bring Fairmark into every new portfolio company in the first hundred days. The savings show up in the first quarter, and the supplier relationships come out stronger, not weaker."
+      },
+      {
+        "company": "Meridian Grid",
+        "role": "CIO",
+        "quote": "Our roadmap said we needed to buy more licences. Fairmark showed us how to use the ones we already had, and renegotiated the rest. The budget we freed paid for two other projects."
+      },
+      {
+        "company": "Lumen Hotels",
+        "role": "CIO",
+        "quote": "An audit notice used to mean months of stress. Fairmark ran the process, found the real exposure and closed it out for a fraction of the supplier's first number."
+      },
+      {
+        "company": "Kestrel Foods",
+        "role": "CFO",
+        "quote": "We cut costs and ended up with better supplier partnerships at the same time. I did not think you could have both."
+      },
+      {
+        "company": "Bramble Retail",
+        "role": "CIO",
+        "quote": "Clear expectations at every step, and they did exactly what they said they would. It is rare to work with advisors this direct."
+      },
+      {
+        "company": "Arbor Freight",
+        "role": "Head of Procurement",
+        "quote": "A complicated renewal with a lot of moving parts. The team knew the supplier better than we did, and we came out well ahead."
+      }
+    ]
+  },
+  "estimate": {
+    "eyebrow": "Quick estimate",
+    "title": "What could your next renewal be worth?",
+    "text": "Move the slider to the annual value of the technology contracts you plan to renew or renegotiate in the next 12 months.",
+    "sliderLabel": "Annual contract value up for renewal",
+    "min": 1000000,
+    "max": 200000000,
+    "step": 1000000,
+    "default": 20000000,
+    "premiumRate": 0.4,
+    "savingsRate": 0.31,
+    "premiumLabel": "Potential premium built into typical pricing",
+    "savingsLabel": "Illustrative savings at our 31% average",
+    "disclaimer": "Illustrative only. Based on Fairmark's reported average savings of over 31% and a typical premium of up to 40%. Actual results depend on your suppliers, contracts and timing.",
+    "cta": {
+      "label": "Get a real number from our Deal Desk",
+      "href": "#contact"
+    },
+    "secondary": {
+      "label": "Try the Savings Retainer calculator",
+      "href": "#programs"
+    }
+  },
+  "cta": {
+    "eyebrow": "Next step",
+    "title": "Bring us one contract. We'll show you what's possible.",
+    "text": "Talk to our Deal Desk about an upcoming renewal, a new purchase or an audit concern. We'll tell you where the market really is.",
+    "primary": {
+      "label": "Talk to our Deal Desk",
+      "href": "#contact"
+    },
+    "phoneLabel": "Or call"
+  }
+}

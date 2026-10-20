@@ -1,0 +1,192 @@
+.section {
+  position: relative;
+  background: var(--navy-800);
+  color: var(--white);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: clamp(48px, 7vw, 120px);
+}
+
+.aside {
+  position: sticky;
+  top: calc(var(--header-h) + 40px);
+  align-self: start;
+}
+
+.title {
+  margin-top: 20px;
+}
+
+.word {
+  display: block;
+  color: rgba(255, 255, 255, 0.28);
+  transition: color 0.5s var(--ease-out);
+}
+
+.wordActive {
+  color: var(--white);
+}
+
+.intro {
+  max-width: 30em;
+  margin-top: 28px;
+  color: rgba(255, 255, 255, 0.72);
+}
+
+.counter {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  margin-top: 48px;
+  font-family: var(--font-mono);
+}
+
+.counterNow {
+  font-size: 44px;
+  color: var(--blue);
+}
+
+.counterTotal {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.stepsWrap {
+  position: relative;
+  padding-left: 48px;
+}
+
+.steps {
+  display: grid;
+  gap: clamp(32px, 5vw, 64px);
+}
+
+.progress {
+  position: absolute;
+  top: 10px;
+  bottom: 10px;
+  left: 7px;
+  width: 2px;
+  background: var(--line-dark);
+}
+
+.progressFill {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(var(--blue-300), var(--blue));
+  transform-origin: top;
+}
+
+.step {
+  position: relative;
+  padding: clamp(28px, 3vw, 40px);
+  border-radius: var(--radius);
+  background: rgba(255, 255, 255, 0.03);
+  box-shadow: inset 0 0 0 1px var(--line-dark);
+  opacity: 0.5;
+  transition:
+    opacity 0.5s ease,
+    background-color 0.5s ease,
+    box-shadow 0.5s ease;
+}
+
+.stepActive {
+  opacity: 1;
+  background: rgba(108, 92, 245, 0.08);
+  box-shadow: inset 0 0 0 1px rgba(108, 92, 245, 0.4);
+}
+
+.node {
+  position: absolute;
+  top: 44px;
+  left: -48px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--navy-800);
+  box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.3);
+  transition:
+    background-color 0.4s ease,
+    box-shadow 0.4s ease;
+}
+
+.stepActive .node {
+  background: var(--blue);
+  box-shadow:
+    inset 0 0 0 2px var(--blue),
+    0 0 0 6px rgba(108, 92, 245, 0.2);
+}
+
+.stepLabel {
+  font-family: var(--font-mono);
+  font-size: 13px;
+  color: var(--blue-300);
+}
+
+.stepTitle {
+  margin-top: 8px;
+  font-size: clamp(32px, 3.4vw, 48px);
+  letter-spacing: -0.035em;
+}
+
+.stepText {
+  margin-top: 16px;
+  color: rgba(255, 255, 255, 0.78);
+}
+
+.points {
+  display: grid;
+  gap: 10px;
+  margin-top: 24px;
+  padding-top: 24px;
+  border-top: 1px solid var(--line-dark);
+  font-size: 15px;
+}
+
+.points li {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.points svg {
+  width: 16px;
+  height: 16px;
+  flex: none;
+  color: var(--blue);
+}
+
+@media (max-width: 960px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+
+  .aside {
+    position: static;
+  }
+
+  .word {
+    display: inline;
+    color: var(--white);
+  }
+
+  .counter {
+    display: none;
+  }
+
+  .step {
+    opacity: 1;
+  }
+}
+
+@media (max-width: 560px) {
+  .stepsWrap {
+    padding-left: 32px;
+  }
+
+  .node {
+    left: -32px;
+  }
+}

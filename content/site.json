@@ -1,0 +1,202 @@
+{
+  "seo": {
+    "title": "Fairmark | IT Contract Negotiation & Technology Spend Advisory",
+    "description": "Fairmark negotiates enterprise technology contracts using 22 years of real deal data. Fully independent, working only for clients. Over 31% average savings.",
+    "siteName": "Fairmark",
+    "url": "https://fairmark.example"
+  },
+  "brand": {
+    "name": "Fairmark",
+    "logo": {
+      "alt": "Fairmark"
+    },
+    "homeHref": "/"
+  },
+  "header": {
+    "skipLink": "Skip to content",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu",
+    "nav": [
+      {
+        "label": "What we do",
+        "href": "#programs"
+      },
+      {
+        "label": "How we do it",
+        "href": "#process"
+      },
+      {
+        "label": "Who we serve",
+        "href": "#clients"
+      },
+      {
+        "label": "Who we are",
+        "href": "#difference"
+      },
+      {
+        "label": "Resources",
+        "href": "#",
+        "children": [
+          {
+            "label": "Blog",
+            "href": "#"
+          },
+          {
+            "label": "Case studies",
+            "href": "#"
+          },
+          {
+            "label": "White papers",
+            "href": "#"
+          },
+          {
+            "label": "Video library",
+            "href": "#"
+          },
+          {
+            "label": "Newsletter archive",
+            "href": "#"
+          },
+          {
+            "label": "News",
+            "href": "#"
+          }
+        ]
+      }
+    ],
+    "login": {
+      "label": "Client portal",
+      "href": "#"
+    },
+    "cta": {
+      "label": "Talk to our Deal Desk",
+      "href": "#contact"
+    }
+  },
+  "contact": {
+    "addressLines": [
+      "The Foundry Building",
+      "400 Mill Street, Suite 210",
+      "Pittsburgh, PA 15222"
+    ],
+    "phone": {
+      "label": "+1 000.000.0000",
+      "href": "tel:+10000000000"
+    },
+    "email": {
+      "label": "deals@fairmark.example",
+      "href": "mailto:deals@fairmark.example"
+    }
+  },
+  "footer": {
+    "tagline": "The independent IT spend and value creation firm. We lower technology supplier costs while increasing enterprise value.",
+    "ctaTitle": "Have a technology renewal coming up?",
+    "ctaButton": {
+      "label": "Talk to our Deal Desk",
+      "href": "#contact"
+    },
+    "newsletter": {
+      "label": "Sign up for updates",
+      "href": "#contact"
+    },
+    "contactHeading": "Contact",
+    "columns": [
+      {
+        "heading": "Company",
+        "links": [
+          {
+            "label": "Who we are",
+            "href": "#difference"
+          },
+          {
+            "label": "What we do",
+            "href": "#programs"
+          },
+          {
+            "label": "How we do it",
+            "href": "#process"
+          },
+          {
+            "label": "Who we serve",
+            "href": "#clients"
+          },
+          {
+            "label": "Ethics",
+            "href": "#"
+          },
+          {
+            "label": "Contact us",
+            "href": "#contact"
+          }
+        ]
+      },
+      {
+        "heading": "Resources",
+        "links": [
+          {
+            "label": "Blog",
+            "href": "#"
+          },
+          {
+            "label": "Case studies",
+            "href": "#"
+          },
+          {
+            "label": "White papers",
+            "href": "#"
+          },
+          {
+            "label": "Video library",
+            "href": "#"
+          },
+          {
+            "label": "Newsletter archive",
+            "href": "#"
+          },
+          {
+            "label": "News",
+            "href": "#"
+          }
+        ]
+      }
+    ],
+    "social": [
+      {
+        "label": "LinkedIn",
+        "href": "#",
+        "icon": "linkedin"
+      },
+      {
+        "label": "X",
+        "href": "#",
+        "icon": "x"
+      },
+      {
+        "label": "Facebook",
+        "href": "#",
+        "icon": "facebook"
+      },
+      {
+        "label": "Instagram",
+        "href": "#",
+        "icon": "instagram"
+      }
+    ],
+    "legal": [
+      {
+        "label": "Privacy policy",
+        "href": "#"
+      },
+      {
+        "label": "Ethics",
+        "href": "#"
+      }
+    ],
+    "copyright": "Copyright © 2026 Fairmark. All rights reserved.",
+    "credit": {
+      "prefix": "Designed by",
+      "label": "CoreConcepts Design",
+      "href": "https://coreconcepts.design/"
+    }
+  }
+}
